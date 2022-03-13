@@ -1,0 +1,5 @@
+public class myApp {
+	public static main(String[] args) {
+		System.out.println("Hello World from myApp!");
+	}
+}
