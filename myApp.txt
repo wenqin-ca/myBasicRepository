@@ -6,8 +6,6 @@ public class myApp {
     /* add more comments 1 */
 
 
-
-
-	//add comments 2
+    /* my dummy comments   */
 
 }
